@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+  <head>
+    <title>About - Gotham Ruby Conference - NYC</title>
+    <link href="/rss/" rel="alternate" title="RSS" type="application/rss+xml" />
+    <link rel="stylesheet" type="text/css" href="/styles.css" />
+  </head>
+  <body>
+    <div id="page">
+      <div id="header">
+  <div id="site-title">
+    <a href="/"><img src="/images/logo.png" alt="Gotham Ruby Conference" border="0"></a>
+  </div>
+  <p style="position: absolute; bottom: 0; right: 10px;">
+  April 26, 2008, New York City<br />
+  <a href="/about">About</a> | <a href="/registration">Register</a> | <!-- <a href="/agenda">Agenda</a> | --> <a href="/speakers">Speakers</a> | <a href="http://wiki.goruco.com/">Wiki</a> | <a href="/sponsors">Sponsors</a> | <a href="/organizers">Organizers</a>
+  </p>
+</div>
+<hr class="hidden" />
+
+      <div id="main">
+            <h1>About</h1>
+
+            
+
+            <p>The Gotham Ruby Conference (GoRuCo) is a one-day event that will take place in New York City on Saturday, April 26th. It will be a technical conference aimed at highly motivated programmers interested in all things Ruby. You&#8217;ll spend the day among Rubyists, Rails developers, and language enthusiasts in New York City, home of Silicon Alley. The <a href="/agenda/">agenda</a> will feature <a href="/speakers/">five speakers</a> and an open session of lightning talks by attendees.</p>
+
+
+	<p>We&#8217;ll be starting the day at 9:00 am with registration, and the last talk will conclude at 6:45 pm. Pace University will be providing the venue. We can accommodate a wide range of dietary restrictions; if you have any special needs you should contact us at <a href="mailto:info@goruco.com">info@goruco.com</a>. An afterparty for attendees will be provided at a local bar later that evening.</p>
+
+
+	<p>Attendance is limited to 120 people.</p>
+
+
+	<p>To keep up with conference news, subscribe to our <a href="/rss/"><span class="caps">RSS</span> feed</a>. If you have any questions, please contact us at <a href="mailto:info@goruco.com">info@goruco.com</a>.</p>
+
+
+	<p>GoRuCo is organized by <a href="/organizers/">volunteers</a> from <a href="http://nycruby.org/"><span class="caps">NYC</span>.rb</a> and other New York-area rubyists.</p>
+            
+            
+      </div>
+      
+<div style="padding: 10px 25px; height: 300px">
+	<div style="float: left; margin-right: 25px">
+		<p style="text-align: center;"><strong>Host</strong></p>
+		<div style="padding: 46px 0">
+			<a href="http://appserv.pace.edu/execute/page.cfm?doc_id=16399"><img src="/images/pace-footer.png" style="border: medium none ;"></a>
+		</div>
+	</div>
+
+	<div style="float: left; margin-right: 25px;">
+		<p style="text-align: center;"><strong>Party Host</strong></p>
+		<a href="http://www.engineyard.com/"><img src="/images/engine-yard-footer.png" style="border: medium none ;"></a>
+	</div>
+	
+	<div style="float: left;">
+		<p style="text-align: center;"><strong>Empire Sponsors</strong></p>
+		<div style="margin-bottom: 7px;">
+			<a href="http://www.integrumtech.com/"><img src="/images/integrum-footer.png" style="border: medium none ;"></a>
+		</div>
+		<div style="margin-bottom: 7px;">
+			<a href="http://www.mdsol.com/"><img src="/images/medidata-footer.jpg" style="border: medium none ;"></a>
+		</div>
+		<div>
+			<a href="http://www.morphexchange.com/"><img src="/images/morph-footer.png" style="border: medium none ;"></a>
+		</div>
+	</div>
+	
+	<br class="clear:both">
+</div>
+
+
+<hr class="hidden" />
+<div id="footer">
+  <p>Copyright &copy; <!-- r:date format="%Y" / -->2008, GoRuCo. All rights reserved.<br />
+    This site is powered by <a target="_blank" href="http://radiantcms.org/">Radiant CMS</a>.</p>
+</div>
+
+    </div>
+
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4066240-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+  </body>
+</html>
+

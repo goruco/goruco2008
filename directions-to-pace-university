@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+  <head>
+    <title>Directions to Pace University - Gotham Ruby Conference - NYC</title>
+    <link href="/rss/" rel="alternate" title="RSS" type="application/rss+xml" />
+    <link rel="stylesheet" type="text/css" href="/styles.css" />
+  </head>
+  <body>
+    <div id="page">
+      <div id="header">
+  <div id="site-title">
+    <a href="/"><img src="/images/logo.png" alt="Gotham Ruby Conference" border="0"></a>
+  </div>
+  <p style="position: absolute; bottom: 0; right: 10px;">
+  April 26, 2008, New York City<br />
+  <a href="/about">About</a> | <a href="/registration">Register</a> | <!-- <a href="/agenda">Agenda</a> | --> <a href="/speakers">Speakers</a> | <a href="http://wiki.goruco.com/">Wiki</a> | <a href="/sponsors">Sponsors</a> | <a href="/organizers">Organizers</a>
+  </p>
+</div>
+<hr class="hidden" />
+
+      <div id="main">
+            <h1>Directions to Pace University</h1>
+
+            
+
+            <p>GoRuCo is in the main building on the Pace University campus, in the Wall Street area of Manhattan. The entrance you will use is on Spruce Street between William and Gold.</p>
+
+
+	<p>The closest subway to this entrance is the Brooklyn Bridge-City Hall station; you can take the 4, 5, and 6 trains there. However, a lot of other subway lines stop close to Pace; subway directions via the 2, 3, A, C, J, M, Z, N, and R trains <a href="http://www.pace.edu/page.cfm?doc_id=16157">are available as well</a>.</p>
+
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://local.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=h&amp;msa=0&amp;ll=40.711256,-74.004695&amp;spn=0.002155,0.004549&amp;msid=108035295588676648204.00044b91c184890fd9e2c&amp;output=embed&amp;s=AARTsJq7DxPFcpS2TNGbDmO02T0PJJ9lWg"></iframe><br /><small><a href="http://local.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=h&amp;msa=0&amp;ll=40.711256,-74.004695&amp;spn=0.002155,0.004549&amp;msid=108035295588676648204.00044b91c184890fd9e2c&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+            
+            
+      </div>
+      
+<div style="padding: 10px 25px; height: 300px">
+	<div style="float: left; margin-right: 25px">
+		<p style="text-align: center;"><strong>Host</strong></p>
+		<div style="padding: 46px 0">
+			<a href="http://appserv.pace.edu/execute/page.cfm?doc_id=16399"><img src="/images/pace-footer.png" style="border: medium none ;"></a>
+		</div>
+	</div>
+
+	<div style="float: left; margin-right: 25px;">
+		<p style="text-align: center;"><strong>Party Host</strong></p>
+		<a href="http://www.engineyard.com/"><img src="/images/engine-yard-footer.png" style="border: medium none ;"></a>
+	</div>
+	
+	<div style="float: left;">
+		<p style="text-align: center;"><strong>Empire Sponsors</strong></p>
+		<div style="margin-bottom: 7px;">
+			<a href="http://www.integrumtech.com/"><img src="/images/integrum-footer.png" style="border: medium none ;"></a>
+		</div>
+		<div style="margin-bottom: 7px;">
+			<a href="http://www.mdsol.com/"><img src="/images/medidata-footer.jpg" style="border: medium none ;"></a>
+		</div>
+		<div>
+			<a href="http://www.morphexchange.com/"><img src="/images/morph-footer.png" style="border: medium none ;"></a>
+		</div>
+	</div>
+	
+	<br class="clear:both">
+</div>
+
+
+<hr class="hidden" />
+<div id="footer">
+  <p>Copyright &copy; <!-- r:date format="%Y" / -->2008, GoRuCo. All rights reserved.<br />
+    This site is powered by <a target="_blank" href="http://radiantcms.org/">Radiant CMS</a>.</p>
+</div>
+
+    </div>
+
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4066240-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+  </body>
+</html>
+

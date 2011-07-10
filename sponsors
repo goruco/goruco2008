@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+  <head>
+    <title>Sponsors - Gotham Ruby Conference - NYC</title>
+    <link href="/rss/" rel="alternate" title="RSS" type="application/rss+xml" />
+    <link rel="stylesheet" type="text/css" href="/styles.css" />
+  </head>
+  <body>
+    <div id="page">
+      <div id="header">
+  <div id="site-title">
+    <a href="/"><img src="/images/logo.png" alt="Gotham Ruby Conference" border="0"></a>
+  </div>
+  <p style="position: absolute; bottom: 0; right: 10px;">
+  April 26, 2008, New York City<br />
+  <a href="/about">About</a> | <a href="/registration">Register</a> | <!-- <a href="/agenda">Agenda</a> | --> <a href="/speakers">Speakers</a> | <a href="http://wiki.goruco.com/">Wiki</a> | <a href="/sponsors">Sponsors</a> | <a href="/organizers">Organizers</a>
+  </p>
+</div>
+<hr class="hidden" />
+
+      <div id="main">
+            <h1>Sponsors</h1>
+
+            
+
+            <p>Thanks to these companies for helping to make GoRuCo possible:</p>
+
+
+	<h2>Host</h2>
+
+
+<div style="width: 300px">
+<a target="_blank" href="http://appserv.pace.edu/execute/page.cfm?doc_id=16399"><img src="/images/pace.png" style="border: 0px"></a>
+</div>
+
+	<p>The Seidenberg School of Computer Science and Information Systems was established in 1983 as one of the first comprehensive schools of computing in the country and remains in the forefront of the field. Its mission is to prepare men and women for professional work, research, and lifelong participation in a new and dynamic information age. The school offers a student-centered environment; small classes; committed teaching; research with professors; innovative programs, projects, and partnerships; and convenient multicampus locations in New York City and Westchester County as well as online courses and programs. Inherent in the school’s activities and services to students, businesses, and the community is the belief that information technologies are tools for the empowerment of people.</p>
+
+
+	<h2>Party Host</h2>
+
+
+<div style="width: 300px">
+<a target="_blank" href="http://www.engineyard.com/"><img src="/images/engine_yard.png" style="border: 0px"></a>
+</div>
+
+	<p>Engine Yard makes the difficult task of Ruby and Rails deployment easy. You write it. We run it. It&#8217;s that simple.</p>
+
+
+	<p>We provide the platform and expert support for deploying Ruby and Rails applications, giving customers the peace of mind to develop their sites and run their businesses. Our model allows you to smoothly scale from one user to millions, keeping your costs in line with revenue.</p>
+
+
+	<p>Our expertise is built on a track record of innovation, including stewardship of the <a href="http://www.rubini.us/">Rubinius</a> and <a href="http://www.merbivore.com/">Merb</a> projects. Engine Yard was founded in 2006 and is headquartered in San Francisco, California.</p>
+
+
+	<h2>Empire Sponsors</h2>
+
+
+<div style="width: 300px">
+<a target="_blank" href="http://www.integrumtech.com/"><img src="/images/integrum.png" style="border: 0px"></a>
+</div>
+
+	<p>Integrum is a close-knit, experienced, internet-savvy group that makes web applications using the latest technologies and web standards to emphasize business value, community, and user-experience. We build for the internet because we like to and because we are good at it. It&#8217;s that simple.</p>
+
+
+	<p><br /></p>
+
+
+<div style="width: 300px">
+<a target="_blank" href="http://www.mdsol.com/"><img src="/images/medidata.jpg" style="border: 0px"></a>
+</div>
+
+	<p>Medidata Solutions is committed to providing life science organizations with advanced software applications and services for planning and managing clinical trials – putting insightful data into researchers’ hands to safely, efficiently and reliably bring their life-enhancing treatments to market. Medidata Rave, the industry leading <span class="caps">CDMS</span>/EDC solution, is extremely fast in low bandwidth environments, utilizing cutting-edge web-UI technologies, distributed application architectures and data management techniques. A pioneer in innovative technologies for clinical research since 1999 — Medidata Solutions delivers reliable and efficient technology and services implementations that allow clinical researchers to reduce trial cycle times, achieve early visibility to reliable clinical data and maintain strict fiscal responsibility.</p>
+
+
+	<p><br /></p>
+
+
+<div style="width: 300px">
+<a target="_blank" href="http://www.morphexchange.com"><img src="/images/morph.png" style="border: 0px"></a>
+</div>
+
+	<p>Morph Labs has developed the next-generation elastic Ruby on Rails
+deployment, delivery, and management system: the Morph Application
+Platform. Automated deployment, version management, 24/7 monitoring,
+load balancing, routing, instant database provisioning, continuous
+backups, elastic sizing, and high availability are just a few of the
+features of this fully serviced application platform. Using <span class="caps">GRID</span>
+computing resources from Amazon <span class="caps">EC2</span> and S3, this web application
+system helps developers to quickly bring applications to life and
+takes away the complexities of configuring hardware and software. You
+get less code with Ruby on Rails; you get less daunting system admin
+chores with our rockin&#8217; Rails platform. Join us in beta testing Morph
+Application Platform today.</p>
+
+
+	<h2>Sponsors</h2>
+
+
+<div style="width: 300px">
+<a target="_blank" href="http://code.google.com/opensource/"><img src="/images/google.gif" style="border: 0px"></a>
+</div>
+
+	<p>Google is a proud user and supporter of open source software and development methodologies. Google contributes back to the Open Source community in many ways, including source code, project hosting on Google Code, projects for students including Google Summer of Code and the Google Highly Open Participation Contest, and support for a wide variety of projects, <span class="caps">LUGS</span>, and events around the world. Learn more at <a target="_blank" href="http://code.google.com/opensource/">code.google.com/opensource</a>.</p>
+
+
+	<p><br /></p>
+
+
+<div style="width: 300px">
+<a target="_blank" href="http://www.obtiva.com/"><img src="/images/obtiva.gif" style="border: 0px"></a>
+</div>
+
+	<p>Obtiva provides agile software development services for organizations that need to create custom web applications. Whether immersed with teams on-site, coding in the Obtiva Studio or training, we combine the pragmatism and technical mastery necessary to manage risk, affect change, and deliver outstanding software. Obtiva consultants strengthen customer teams on-site by providing specialized skill sets and languages such as Ruby on Rails, Eclipse <span class="caps">RCP</span>, Java, agile project management, agile and technical coaching, and training. Customers can also count on the Obtiva Studio for full life-cycle development from planning to delivery. Obtiva believes in hiring people who are passionate about their craft and provides continuous learning and growth opportunities in a culture where they can thrive. Our consultants are experienced practitioners who share their knowledge of XP, Agile, and innovative new technologies by leading scheduled and on-site training events throughout North America. For information on custom web application development, public or private training classes, please contact us at 630-588-8622 or visit <a target="_blank" href="http://www.obtiva.com/">www.obtiva.com</a>.</p>
+
+
+	<p><br /></p>
+
+
+<div style="width: 300px">
+<a target="_blank" href="http://www.pivotallabs.com/"><img src="/images/pivotal.png" style="border: 0px"></a>
+</div>
+
+	<p>At Pivotal Labs, we believe software development should enable your
+innovative vision, not constrain it. Our sustainable development
+practice combines our diverse and brilliant team of Pivots with the
+very best in agile software management techniques. Pivotal Labs
+partners with you in a highly collaborative and iterative process that
+not only produces the highest quality software, it also spreads our
+wealth of experience to your development team. Let our focus,
+expertise, and perspective inform and improve your development process
+throughout and beyond our partnership. Pivotal Labs: come for the best
+software, leave with the best practices. For inquiries, please email
+contact@pivotallabs.com.</p>
+
+
+	<p><br /></p>
+
+
+<div style="width: 300px">
+<a target="_blank" href="http://www.streeteasy.com/"><img src="/images/streeteasy.png" style="border: 0px"></a>
+</div>
+
+	<p>StreetEasy.com is New York&#8217;s most popular online real estate resource
+for rentals and sales. We have expanded our coverage to include North
+Jersey and have more regions coming soon. We&#8217;re an
+engineering-oriented, user-focused, adjective-hypenated ruby shop
+(i.e. no Marketing MBAs running the show). We process agile practice
+development, or something like that, and we synergistically enjoy
+hyperbolic verbosity on our awesome lunch breaks. And we&#8217;re always
+looking for good developers to join our team.</p>
+
+
+	<p><br /></p>
+
+
+<div style="width: 300px">
+<a target="_blank" href="http://www.weplay.com/"><img src="/images/weplay.jpg" style="border: 0px"></a>
+</div>
+
+	<p>weplay.com is a New York based Rails startup serving the youth
+  sports community. We&#8217;re looking to add a few developers to our
+  talented engineering team. We use XP &#38; Scrum, Story Driven
+  Development to build great software, and are happy to actively
+  contribute to the local Ruby community as well as a variety of
+  opensource projects. The company is well positioned with
+  VC-backing, and great partners like MajorLeagueBaseball.com,
+  Derek Jeter, Peyton Manning, &#38; LeBron James. Find Josh Knowles,
+  Bryan Helmkamp, Luke Melia or Lee Bankewitz at the conference to
+  talk about what it&#8217;s like to work on our team.</p>
+            
+            
+      </div>
+      
+
+<hr class="hidden" />
+<div id="footer">
+  <p>Copyright &copy; <!-- r:date format="%Y" / -->2008, GoRuCo. All rights reserved.<br />
+    This site is powered by <a target="_blank" href="http://radiantcms.org/">Radiant CMS</a>.</p>
+</div>
+
+    </div>
+
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4066240-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+  </body>
+</html>
+
